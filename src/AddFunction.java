@@ -15,7 +15,8 @@ public class AddFunction {
       
       // Call add with 50 and 70 below this line
       // then print the returned value
-
+      int sum3 = add(50, 70);
+      System.out.println("Sum3: " + sum3);
 
        // Below this line read in two values from the user
        // and add them together
